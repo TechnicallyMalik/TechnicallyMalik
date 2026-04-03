@@ -1,9 +1,9 @@
-# Hi, I'm Malik McCoy
+# Hi, I'm Malik Salam
 
-Business Administration graduate with a concentration in Information Technology Management, building hands-on experience in Python, SQL, database design, business intelligence, analytics, and technical project documentation.
+Business Administration graduate with a concentration in Information Technology Management, building hands-on experience in Python, SQL, database design, business intelligence, analytics, and technical project documentation. My portfolio highlights practical work across programming, relational databases, data transformation, dashboard development, and business-focused analysis. I am especially interested in opportunities that connect technology with problem solving, process improvement, data-driven decision-making, and technical operations.
 
 ## About Me
-I am building a technical portfolio that showcases practical work in programming, relational databases, business intelligence, data analysis, and strategy-focused problem solving. My goal is to grow into opportunities in IT, technical operations, systems, analytics, database work, and business technology.
+I am building a technical portfolio that showcases practical work in programming, relational databases, business intelligence, data analysis, and strategy-focused problem solving. My experience includes Python fundamentals, MySQL and SQL query development, ERD and data modeling work, Excel and Tableau-based analysis, ETL workflows, and analytics projects involving predictive modeling, clustering, and association rule mining. I also bring a business-oriented perspective through projects in stakeholder analysis, ethical leadership, negotiation, and strategic decision-making. My goal is to grow into opportunities in IT, technical operations, systems, analytics, database work, and business technology, where I can combine technical skills with strong communication, structure, and business insight.
 
 ## Technical Areas
 - Python programming
