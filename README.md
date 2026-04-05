@@ -3,7 +3,7 @@
 Business Administration graduate with a concentration in Information Technology Management, building hands-on experience in Python, SQL, database design, business intelligence, analytics, and technical project documentation. My portfolio highlights practical work across programming, relational databases, data transformation, dashboard development, and business-focused analysis. I am especially interested in opportunities that connect technology with problem solving, process improvement, data-driven decision-making, and technical operations.
 
 ## About Me
-I am building a technical portfolio that showcases practical work in programming, relational databases, business intelligence, data analysis, and strategy-focused problem solving. My experience includes Python fundamentals, MySQL and SQL query development, ERD and data modeling work, Excel and Tableau-based analysis, ETL workflows, and analytics projects involving reporting, dimensional modeling, and dashboard interpretation. I also bring a business-oriented perspective through projects in stakeholder analysis, ethical leadership, negotiation, and strategic decision-making. My goal is to grow into opportunities in IT, technical operations, systems, analytics, database work, and business technology, where I can combine technical skills with strong communication, structure, and business insight.
+I am building a technical portfolio that showcases practical work in programming, relational databases, business intelligence, data analysis, and strategy-focused problem solving. My experience includes Python fundamentals, MySQL and SQL query development, ERD and data modeling work, Excel and Tableau-based analysis, ETL workflows, analytics projects involving reporting, dimensional modeling, and dashboard interpretation, and business-focused work in stakeholder analysis, public policy, negotiation, strategic simulation, and executive decision-making. My goal is to grow into opportunities in IT, technical operations, systems, analytics, database work, and business technology, where I can combine technical skills with strong communication, structure, and business insight.
 
 ## Technical Areas
 - Python programming
@@ -31,6 +31,9 @@ Projects involving Excel reporting, PivotTables, charts, forecasting, data valid
 ### [ETL and Business Intelligence Projects](https://github.com/TechnicallyMalik/etl-and-business-intelligence-projects)
 Projects in star schema design, ETL dimensional modeling, sales flow analysis, Tableau dashboard work, and business intelligence reporting.
 
+### [Business Strategy and Analysis Projects](https://github.com/TechnicallyMalik/business-strategy-and-analysis-projects)
+Projects focused on stakeholder analysis, public policy, sustainability, negotiation, business ethics, strategic simulation, and executive decision-making.
+
 ## Featured Project Topics
 - Frequent Flyer SQL Query Analysis
 - Job Interview Database Schema Project
@@ -41,12 +44,15 @@ Projects in star schema design, ETL dimensional modeling, sales flow analysis, T
 - Insurance Sales Analysis with Charts and PivotTables
 - Python File Handling and Dictionary Operations
 - String Processing and Visualization
+- California Data Center Water Regulation Analysis
+- Strategic Negotiation and Conflict Leadership Portfolio
+- Capsim Strategic Business Simulation
 
 ## What I'm Currently Building
 - Stronger public GitHub project documentation
-- More polished SQL, Python, Excel, and BI project repositories
+- More polished SQL, Python, Excel, BI, and strategy project repositories
 - A complete technical portfolio organized by skill area
-- Portfolio material aligned to IT, analytics, database, and business systems roles
+- Portfolio material aligned to IT, analytics, database, business systems, and strategy-focused roles
 
 ## Connect With Me
 - LinkedIn: [Malik Salam](https://www.linkedin.com/in/malik-salam-229393256)
