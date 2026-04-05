@@ -56,5 +56,5 @@ Projects focused on stakeholder analysis, public policy, sustainability, negotia
 
 ## Connect With Me
 - LinkedIn: [Malik Salam](https://www.linkedin.com/in/malik-salam-229393256)
-- Resume: [Malik Salam Resume](https://github.com/TechnicallyMalik/TechnicallyMalik/blob/main/malik%20salam%20resume.pdf)
+- Resume: [Malik Salam Resume](https://github.com/TechnicallyMalik/TechnicallyMalik/blob/main/Malik%20Salam%20Resume.pdf)
 - GitHub: [https://github.com/TechnicallyMalik](https://github.com/TechnicallyMalik)
