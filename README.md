@@ -3,51 +3,48 @@
 Business Administration graduate with a concentration in Information Technology Management, building hands-on experience in Python, SQL, database design, business intelligence, analytics, and technical project documentation. My portfolio highlights practical work across programming, relational databases, data transformation, dashboard development, and business-focused analysis. I am especially interested in opportunities that connect technology with problem solving, process improvement, data-driven decision-making, and technical operations.
 
 ## About Me
-I am building a technical portfolio that showcases practical work in programming, relational databases, business intelligence, data analysis, and strategy-focused problem solving. My experience includes Python fundamentals, MySQL and SQL query development, ERD and data modeling work, Excel and Tableau-based analysis, ETL workflows, and analytics projects involving predictive modeling, clustering, and association rule mining. I also bring a business-oriented perspective through projects in stakeholder analysis, ethical leadership, negotiation, and strategic decision-making. My goal is to grow into opportunities in IT, technical operations, systems, analytics, database work, and business technology, where I can combine technical skills with strong communication, structure, and business insight.
+I am building a technical portfolio that showcases practical work in programming, relational databases, business intelligence, data analysis, and strategy-focused problem solving. My experience includes Python fundamentals, MySQL and SQL query development, ERD and data modeling work, Excel and Tableau-based analysis, ETL workflows, and analytics projects involving reporting, dimensional modeling, and dashboard interpretation. I also bring a business-oriented perspective through projects in stakeholder analysis, ethical leadership, negotiation, and strategic decision-making. My goal is to grow into opportunities in IT, technical operations, systems, analytics, database work, and business technology, where I can combine technical skills with strong communication, structure, and business insight.
 
 ## Technical Areas
 - Python programming
 - SQL and MySQL Workbench
 - Database schema design
 - ERD modeling and functional dependency analysis
-- Excel and business intelligence
-- Tableau and dashboard development
-- ETL and data transformation
-- Predictive analytics and data mining
+- Excel reporting and PivotTables
+- Tableau and dashboard analysis
+- ETL and dimensional modeling
+- Business intelligence and analytics
 - Technical documentation
 - Business and strategy analysis
 
 ## Featured Repositories
 
 ### [Python Programming Projects](https://github.com/TechnicallyMalik/python-programming-projects)
-Hands-on Python work covering variables, data types, list slicing, functions, string processing, file handling, regular expressions, and object-oriented programming.
+Hands-on Python work covering variables, data types, list slicing, functions, iteration, conditional logic, file handling, dictionary operations, string processing, visualization, and object-oriented programming.
 
 ### [MySQL, SQL, and Data Modeling](https://github.com/TechnicallyMalik/mysql-sql-and-data-modeling)
-Projects focused on MySQL environment setup, database creation, SQL script execution, query writing, ERD design, and functional dependency analysis.
+Projects focused on database creation, SQL script execution, relational table design, query writing, schema development, and practical MySQL Workbench use.
 
-### [Excel and Business Intelligence Projects](https://github.com/TechnicallyMalik/excel-and-business-intelligence-projects)
-Projects involving Excel data analysis, table management, PivotTables, forecasting, Power Query, Power Pivot, formula auditing, and workbook design.
+### [Excel Reporting and PivotTables Projects](https://github.com/TechnicallyMalik/excel-reporting-and-pivottables-projects)
+Projects involving Excel reporting, PivotTables, charts, forecasting, data validation, workbook organization, and business analysis.
 
-### [Data Mining and Analytics Projects](https://github.com/TechnicallyMalik/data-mining-and-analytics-projects)
-Projects in ETL, Tableau, predictive analytics, clustering, unsupervised learning, association rule mining, and AI-assisted business insight generation.
-
-### [Business Strategy and Analysis Projects](https://github.com/TechnicallyMalik/business-strategy-and-analysis-projects)
-Selected projects in stakeholder analysis, ethical leadership, negotiation and conflict analysis, policy evaluation, and strategic business simulation.
+### [ETL and Business Intelligence Projects](https://github.com/TechnicallyMalik/etl-and-business-intelligence-projects)
+Projects in star schema design, ETL dimensional modeling, sales flow analysis, Tableau dashboard work, and business intelligence reporting.
 
 ## Featured Project Topics
 - Frequent Flyer SQL Query Analysis
 - Job Interview Database Schema Project
-- Sales Database ERD Design
-- Power Query Data Transformation
-- Tableau Data Visualization
-- ETL Data Pipeline Exercise
-- Business Insight Generation with LLM
-- Python File Handling and Regex Parsing
-- Strategic Negotiation and Conflict Leadership Portfolio
+- Practice Database Table Creation
+- Star Schema Design
+- ETL Dimensional Modeling and Sales Flow
+- Tableau Dashboard Analysis
+- Insurance Sales Analysis with Charts and PivotTables
+- Python File Handling and Dictionary Operations
+- String Processing and Visualization
 
 ## What I'm Currently Building
 - Stronger public GitHub project documentation
-- More polished SQL and Python project repositories
+- More polished SQL, Python, Excel, and BI project repositories
 - A complete technical portfolio organized by skill area
 - Portfolio material aligned to IT, analytics, database, and business systems roles
 
